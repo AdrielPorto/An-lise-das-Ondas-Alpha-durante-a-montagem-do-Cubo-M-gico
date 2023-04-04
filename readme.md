@@ -59,7 +59,7 @@ atividade cerebral e a habilidade cognitiva.
 <br>
 <br>
 <br>
-<img src="https://i.ibb.co/dDKwTVj/P1T1.png"> <h3 align="center"> Gráfico com a análise dos resultados obtidos no teste do participante 1 especialista
+<img src="https://i.ibb.co/dDKwTVj/P1T1.png"> <h3 align="center"> Gráfico com a análise dos resultados obtidos no teste do participante 1 iniciante
 
 <br>
 <br>
@@ -69,4 +69,4 @@ atividade cerebral e a habilidade cognitiva.
 <br>
 <br>
 <br>
-<img src="https://i.ibb.co/7vpNRTX/P3T1.png"> <h3 align="center"> Gráfico com a análise dos resultados obtidos no teste do participante 3 iniciante
+<img src="https://i.ibb.co/7vpNRTX/P3T1.png"> <h3 align="center"> Gráfico com a análise dos resultados obtidos no teste do participante 3 especialista
